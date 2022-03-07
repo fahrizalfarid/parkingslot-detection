@@ -7,7 +7,7 @@ import time
 import cv2
 
 
-class_list = ['with_mask', 'mask_weared_incorrect', 'without_mask']
+class_list = []
 img_size = 416
 
 
